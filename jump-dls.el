@@ -3,7 +3,7 @@
 ;; Copyright (C) 2007,2008,2009  David Shilvock
 
 ;; Author: David Shilvock <davels@telus.net>
-;; Version: 0.5
+;; Version: 0.6
 ;; Keywords: tools
 
 ;; $Id: jump.el 188 2009-02-28 21:21:53Z dave $
